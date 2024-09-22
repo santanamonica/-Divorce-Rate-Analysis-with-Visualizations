@@ -1,1 +1,2 @@
 # -Divorce-Rate-Analysis-with-Visualizations
+This project using R includes 10 research questions for analysis to see what factors contribute to couples divorces the most. It uses simple linear regression and histograms to create insights on certain divorce factors. This can help couples who are on the drink of divorce or are going to couple counseling to see what factors may be affecting them. Couples are more likely to get divorced than stay married.
